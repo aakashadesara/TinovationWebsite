@@ -31,6 +31,66 @@ body{
 	font-family: "Bebas"
 }
 
+h1 {
+	color: white;
+}
+
+#loginBox {
+	background-color: rgba(0,0,0,0);
+	height: auto;
+	border-radius: 10px;
+	text-align: center;
+	padding: 3%;
+	z-index: 1003;
+	position: fixed;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	/* center all inline content */
+	text-align: center;
+}
+
+#loginBox2 {
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 10px;
+	text-align: center;
+	padding: 3%;
+	position: fixed;
+	position: fixed;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10%;
+	width: 40%;
+	/* center all inline content */
+	text-align: center;
+}
+
+.inputBox{
+	margin-top: 2%;
+	width: 50%;
+	border-radius: 10px;
+	outline: none;
+	border: none;
+	text-align: center;
+	height: 35px;
+}
+
+#loginButton {
+	margin-top: 2%;
+	width: 30%;
+	border-radius: 5px;
+	outline: none;
+	border: 1px #00FFFF solid;
+	color: white;
+	background-color: rgba(255,255,255,0.2);
+	height: 40px;
+}
+
+#loginButton:hover {
+	background-color: rgba(255,255,255,0.25);
+}
+
 .header{
 	height: 175px;
 	width: 100%;
@@ -155,6 +215,8 @@ body{
     -moz-transition: color .25s ease-in-out;
     -webkit-transition: color .25s ease-in-out;
 } 
+
+
 
 .navbar ul li a:hover{
 	color: rgb(33,205,236);
