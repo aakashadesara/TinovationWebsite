@@ -1,4 +1,4 @@
 TinovationWebsite
 =================
 
-The official website for the one and only programming club at Cupertino High School ... Tinovation.
+The newest version of the website is on tinvation.org
