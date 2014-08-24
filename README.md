@@ -1,4 +1,5 @@
 TinovationWebsite
 =================
 
-The newest version of the website is on tinvation.org
+The tinovation website is now a different design. Has a mongodb database.
+Check it out @ tinovation.org.
